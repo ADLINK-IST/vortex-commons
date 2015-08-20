@@ -1,6 +1,18 @@
 # vortex-commons
 A collection of utilities for developing in Java with PrismTech Vortex
 
+## Building for Vortex Cafe
+```bash
+mvn install -P cafe-build
+```
+
+## Building for Vortex OpenSplice
+In order to build for Vortex OpenSplice the OSPL_HOME environment variable must be defined.
+
+```bash
+mvn install -P ospl-build
+```
+
 # Vortex Overview
 PrismTech’s Vortex Intelligent Data Sharing Platform provides the leading implementations of the Object Management Group’s Data Distribution Service (DDS) for Real-time Systems standard. DDS is a middleware protocol and API standard for data-centric connectivity and is the only standard able to meet the advanced requirements of the Internet of Things (IoT). DDS provides the low-latency data connectivity, extreme reliability and scalability that business and mission-critical IoT applications need. For more information visit www.prismtech.com/vortex .
 
