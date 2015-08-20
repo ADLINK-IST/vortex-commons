@@ -21,7 +21,7 @@
 
     <groupId>com.prismtech.vortex</groupId>
     <artifactId>vortex-commons</artifactId>
-    <version>0.7.0</version>
+    <version>0.7.0-SNAPSHOT</version>
     <name>Vortex Commons</name>
 
     <properties>
