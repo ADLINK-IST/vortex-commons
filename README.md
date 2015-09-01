@@ -1,4 +1,6 @@
 # vortex-commons
+[![Build Status](https://travis-ci.org/PrismTech/vortex-commons.svg)](https://travis-ci.org/PrismTech/vortex-commons)
+
 A collection of utilities for developing in Java with PrismTech Vortex
 
 ## Building for Vortex Cafe
