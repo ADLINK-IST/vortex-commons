@@ -3,6 +3,6 @@ language: java
 jdk:
   - oraclejdk8
 
-install: mvn -P cafe-build install
+install: mvn -DskipTests -P cafe-build package install
 
 script: mvn -P cafe-build test
