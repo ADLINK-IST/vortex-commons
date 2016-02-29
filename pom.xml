@@ -29,7 +29,7 @@
         <project.reporting.sourceEncoding>UTF-8</project.reporting.sourceEncoding>
 
         <vortex-opensplice-version>6.5.0p3</vortex-opensplice-version>
-        <vortex-cafe-version>2.2.0</vortex-cafe-version>
+        <vortex-cafe-version>2.1.1</vortex-cafe-version>
 
         <maven-compiler-plugin-version>3.3</maven-compiler-plugin-version>
     </properties>
